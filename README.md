@@ -44,8 +44,7 @@ pip install -r requirements.txt
 
 Ensure your dataset is located at the following path:
 
-```
-E:\datascience\Fabric\Clothing Pattern Classification Dataset (MD-Fashion-2)_Samples
+```"D:\projectfabric\Fabric\Clothing Pattern Classification Dataset (MD-Fashion-2)_Samples"
 ```
 
 Or update the `data_dir` path in `Data.py` to reflect your actual dataset location.
